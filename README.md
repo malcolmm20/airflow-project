@@ -1,4 +1,4 @@
-# Airflow DAG: La Liga Top Scorers ETL
+# Airflow DAG: La Liga Top Scorers ETL ⚽
 
 This is a quick project to explore basic Apache Airflow functionality. The project includes a DAG that performs basic ETL (Extract, Transform, Load) tasks. It pulls top scorer data from a football API, transforms the response into the correct format, and saves the results to a local CSV file.
 
